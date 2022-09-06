@@ -56,7 +56,7 @@ TITLE Success!
 cd %temp%
 del "%temp%\vt.py" 
 del "%temp%\GameUserSettings.ini" 
-msg "%username%" Valorant has been optimized!
+msg "%username%" Settings have been applied
 exit
 
 
