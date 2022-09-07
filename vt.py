@@ -22,7 +22,7 @@ settings[42] ='sg.EffectsQuality=0 \n'
 settings[43] ='sg.FoliageQuality=0 \n'
 settings[44] ='sg.ShadingQuality=0 \n'
 
-print(settings)
+
 
 with open('GameUserSettings.ini', 'w', encoding='utf-8') as file:
    file.writelines(settings)
