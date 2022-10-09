@@ -22,6 +22,15 @@ settings[42] ='sg.EffectsQuality=0 \n'
 settings[43] ='sg.FoliageQuality=0 \n'
 settings[44] ='sg.ShadingQuality=0 \n'
 
+settings[51] ='sg.ResolutionQuality=65.000000 \n'
+settings[52] ='sg.ViewDistanceQuality=1 \n'
+settings[53] ='sg.AntiAliasingQuality=0 \n'
+settings[54] ='sg.ShadowQuality=0 \n'
+settings[55] ='sg.PostProcessQuality=0 \n'
+settings[56] ='sg.TextureQuality=0 \n'
+settings[57] ='sg.EffectsQuality=0 \n'
+settings[58] ='sg.FoliageQuality=0 \n'
+settings[59] ='sg.ShadingQuality=0 \n'
 
 
 with open('GameUserSettings.ini', 'w', encoding='utf-8') as file:
