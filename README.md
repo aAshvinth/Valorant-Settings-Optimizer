@@ -1,11 +1,18 @@
-# <h3><a href="https://raw.githubusercontent.com/aAshvinth/Valorant-Settings-Optimizer/main/Valorant%20settings%20optimizer.bat">Valorant-settings-optmizer</a><h3/>
+
+# Valorant-Settings-Optimizer
+
+Valorant Settings Optimizer is a program designed to optimize your Valorant game settings. It is a prototype extension for <a href="https://github.com/auraside/HoneCtrl">HoneCtrl</a> by <a href="https://github.com/auraside">Auraside.inc</a> , created by myself and @JonathahWasTaken.
 
 
- Made as an extension for <a href="https://github.com/auraside/HoneCtrl">HoneCtrl</a> by <a href="https://github.com/auraside">Auraside.inc</a> 
-<p>Valorant settings optimizer is a program thats optimizes your Valorant settings .<p/>
- 
- Made by me and @JonathahWasTaken 
+### How to use🛠️
 
-prototype extension for HoneCtrl
+To use Valorant Settings Optimizer, you need to have HoneCtrl installed on your system. Once HoneCtrl is installed, simply run the .bat file.
 
+### Contributors 💡
 
+    @aAshvinth(me)
+    @JonathahWasTaken
+
+### License📄
+
+This project is licensed under the GNU General Public License v3.0.
