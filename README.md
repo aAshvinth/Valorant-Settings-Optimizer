@@ -1,7 +1,7 @@
 
 # Valorant-Settings-Optimizer
 
-## Please note that this is a prototype and may not work as expected in all situations. We appreciate your feedback and suggestions for improvement.
+##  🐛Please note that this is a prototype and may not work as expected in all situations. We appreciate your feedback and suggestions for improvement.
 
 Valorant Settings Optimizer is a program designed to optimize your Valorant game settings. It is a prototype extension for <a href="https://github.com/auraside/HoneCtrl">HoneCtrl</a> by <a href="https://github.com/auraside">Auraside.inc</a> , created by myself and @JonathahWasTaken.
 
